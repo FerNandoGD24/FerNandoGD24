@@ -5,8 +5,8 @@ Me gusta hacer scripts de automatización para sistemas Linux
 
 ## Sobre mí
 
-- Me gusta trabajar con **shell**, **C**, entre otros
-- Uso arch linux ![C](https://img.shields.io/badge/-Arch-61DAFB?logo=archlinux#&logoColor=white)
+- Me gusta trabajar con **C** y **java**, entre otros, no me gusta **python**
+- I use ![C](https://img.shields.io/badge/-Arch-61DAFB?logo=archlinux#&logoColor=white) BTW
 
 ## Lenguages
 
