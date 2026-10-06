@@ -5,14 +5,8 @@ Me gusta hacer scripts de automatización para sistemas Linux
 
 ## Sobre mí
 
-- Me gusta trabajar con **C** y **java**, entre otros, no me gusta **python**
-- I use ![C](https://img.shields.io/badge/-Arch-61DAFB?logo=archlinux#&logoColor=white) BTW
+- Me gusta trabajar con **C** y **Rust**
 
-## Lenguages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=linux&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 
 ## 📈 Estadísticas de GitHub
