@@ -7,7 +7,6 @@ Me gusta hacer scripts de automatización para sistemas Linux
 
 - Me gusta trabajar con **C** y **Rust**
 
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 
 ## 📈 Estadísticas de GitHub
 
